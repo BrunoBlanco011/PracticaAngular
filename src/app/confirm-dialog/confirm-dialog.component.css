@@ -1,0 +1,27 @@
+.dialog-container {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .dialog-header {
+    font-size: 24px;
+    font-weight: bold;
+    color: #444;
+  }
+  
+  .dialog-content {
+    margin: 20px 0;
+    font-size: 18px;
+  }
+  
+  .dialog-actions {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .dialog-button {
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+  
